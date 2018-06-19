@@ -11,7 +11,7 @@ We provide pretrained ShuffleNet-1g8 models on ImageNet, which achieve nearly ac
 
 The top-1/5 accuracy rates by using single center crop (crop size: 224x224, image size: 256xN):
 Network 	      Top-1 	Top-5	  Top-1(reported in the paper)
-ShuffleNet-1g8 	67.408 	87.258	67.60
+ShuffleNet-1g8 	  67.408 	87.258	  67.60
 
 
 Evaluate Models
